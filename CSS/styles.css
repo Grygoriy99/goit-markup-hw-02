@@ -3,6 +3,8 @@ body {
   width: 1440px;
   height: 3300px;
   background: #fff;
+  font-family: roboto;
+  color: #434455;
 }
 
 /* Reset styles */
@@ -34,9 +36,7 @@ button {
 .hero-title {
   color: #fff;
   text-align: center;
-  font-family: Roboto;
   font-size: 56px;
-  font-style: normal;
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 1.12px;
@@ -46,12 +46,9 @@ button {
   background: #4d5ae5;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   color: #fff;
-  /* Button Text */
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
-  line-height: 24px; /* 150% */
+  line-height: 24px;
   letter-spacing: 0.64px;
 }
 
@@ -60,11 +57,9 @@ button {
 .our-team-header,
 .our-portfolio-header {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 111.111% */
+  line-height: 40px;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -74,9 +69,7 @@ button {
 .our-team-title,
 .our-portfolio-title {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
@@ -87,11 +80,8 @@ button {
 .our-team-paragraph,
 .our-portfolio-paragraph {
   color: #434455;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
+  line-height: 24px;
   letter-spacing: 0.32px;
 }
 
@@ -101,11 +91,7 @@ button {
   color: #f4f4fd;
 }
 .footer-slogan {
-  /* Body */
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
+  line-height: 24px;
   letter-spacing: 0.32px;
 }
