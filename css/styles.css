@@ -54,6 +54,14 @@ button {
   background-color: #404bbf;
 }
 
+/* section properties */
+.our-tean {
+  background-color: #f4f4fd;
+}
+.our-team-list {
+  background-color: #ffffff;
+}
+
 /* headers */
 .our-advanteges-header {
   color: #2e2f42;
