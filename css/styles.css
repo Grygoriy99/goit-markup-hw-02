@@ -49,16 +49,35 @@ button {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
 
 /* section header */
-.our-advanteges-header,
-.our-team-header,
-.our-portfolio-header {
+.our-advanteges-header {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  background-color: #404bbf;
+}
+.our-team-header {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.our-portfolio-header {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  background-color: #f4f4fd;
+  text-align: center;
 }
 
 /* section title */
