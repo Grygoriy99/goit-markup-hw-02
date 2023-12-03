@@ -55,7 +55,7 @@ button {
 }
 
 /* section properties */
-.our-tean {
+.our-team {
   background-color: #f4f4fd;
 }
 .our-team-list {
@@ -110,7 +110,7 @@ button {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  etter-spacing: 0.02em;
+  letter-spacing: 0.02em;
 }
 
 /* section-paragraph */
