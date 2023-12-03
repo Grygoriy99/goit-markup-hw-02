@@ -68,6 +68,8 @@ button {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
 }
 .our-portfolio-header {
   color: #2e2f42;
@@ -81,12 +83,26 @@ button {
 }
 
 /* section title */
-.our-advanteges-title,
-.our-team-title,
+.our-advanteges-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.our-team-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
 .our-portfolio-title {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
+  line-height: 1.2;
+  etter-spacing: 0.02em;
 }
 
 /* section-paragraph */
