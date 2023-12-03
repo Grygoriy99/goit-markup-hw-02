@@ -49,6 +49,8 @@ button {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
+.header-link {
+}
 
 /* section header */
 .our-advanteges-header,
@@ -58,7 +60,7 @@ button {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.2;
-  etter-spacing: 0.02em;
+  letter-spacing: 0.02em;
 }
 
 /* section title */
