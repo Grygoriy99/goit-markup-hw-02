@@ -42,6 +42,15 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.adress-style {
+  font-style: normal;
+}
+.adress-item {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 
 /* hero section */
 .hero {
