@@ -140,7 +140,6 @@ button {
 /* footer */
 .footer {
   background: #2e2f42;
-  color: #f4f4fd;
 }
 .footer-logo {
   font-family: "Raleway", sans-serif;
@@ -158,4 +157,5 @@ button {
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 1.5;
+  f4f4fd
 }
