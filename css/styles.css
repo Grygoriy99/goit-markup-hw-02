@@ -44,7 +44,8 @@ button {
   color: #2e2f42;
 }
 .header-item:hover,
-.header-item:focus {
+.header-item:focus,
+.header-item:active {
   color: #404bbf;
 }
 .adress-style {
